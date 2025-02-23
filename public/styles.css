@@ -1,0 +1,14 @@
+.place-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.identification-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.identification-card img {
+    width: 100px;
+    height: 100px;
+}
